@@ -1,3 +1,20 @@
+# Mahindra's AI Projects
+
+## Featured: two practical freelancer applications
+
+| Project | What you can do |
+| --- | --- |
+| [ClientDesk](freelancer-suite/projects/clientdesk/README.md) | Save business policies, draft evidence-backed client replies, and track requests. |
+| [ActionBoard](freelancer-suite/projects/actionboard/README.md) | Extract meeting commitments, edit tasks, track progress, and export CSV. |
+
+**[Setup and complete documentation →](freelancer-suite/README.md)**
+
+Both applications share a local Python + SQLite workspace with a responsive browser UI. Run `python app.py` inside `freelancer-suite`. Default workflows require no API keys or Python dependencies. Optional local AI extraction requires an installed Ollama model. 12 application tests passed locally; visual browser QA and live-model inference remain unverified.
+
+---
+
+## Earlier learning projects
+
 # Small AI, Clear Evidence
 
 **Three offline NLP mini-projects you can run, inspect, and extend.**
