@@ -1,0 +1,11 @@
+[
+  {"label":"billing","text":"Please refund my payment invoice charge"},
+  {"label":"billing","text":"Wrong bill payment refund charged twice"},
+  {"label":"billing","text":"Invoice payment receipt billing charge"},
+  {"label":"technical","text":"App crashes error login broken"},
+  {"label":"technical","text":"Login error password reset app failure"},
+  {"label":"technical","text":"Software broken crash error loading"},
+  {"label":"feedback","text":"Great app love helpful design suggestion"},
+  {"label":"feedback","text":"Feature suggestion improve design feedback"},
+  {"label":"feedback","text":"Love the helpful feature great design"}
+]

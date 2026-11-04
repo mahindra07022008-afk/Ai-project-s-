@@ -1,0 +1,6 @@
+Local automation helps people complete repeated computer tasks.
+A local workflow can organize files and create reports.
+Workflow logs record completed tasks and errors.
+Users can inspect workflow logs to understand failures.
+Local automation runs only while the computer is powered on.
+Keep backups before a workflow changes important files.
