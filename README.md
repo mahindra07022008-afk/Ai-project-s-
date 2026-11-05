@@ -81,3 +81,9 @@ Next experiments: compare search against embeddings, measure classification on h
 - `.github/workflows/tests.yml`: continuous integration.
 
 Created with AI assistance. Review the implementation and document what you learn as you extend it.
+
+## Daily real-world projects
+
+| Date | Project | Purpose |
+| --- | --- | --- |
+| 2026-11-06 | [TicketTwin](projects/ticket_twin_20261106/README.md) | Find candidate duplicate support tickets with explainable TF-IDF similarity |
