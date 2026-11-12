@@ -1,0 +1,23 @@
+{
+  "baskets": [
+    [
+      "notebook",
+      "pen"
+    ],
+    [
+      "notebook",
+      "pen"
+    ],
+    [
+      "notebook",
+      "pencil"
+    ],
+    [
+      "mug"
+    ]
+  ],
+  "liked": [
+    "notebook"
+  ],
+  "limit": 3
+}

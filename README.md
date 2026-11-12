@@ -87,3 +87,6 @@ Created with AI assistance. Review the implementation and document what you lear
 | Date | Project | Purpose |
 | --- | --- | --- |
 | 2026-11-06 | [TicketTwin](projects/ticket_twin_20261106/README.md) | Find candidate duplicate support tickets with explainable TF-IDF similarity |
+| 2026-11-12 | [DemandPath](projects/demand_path_20261112/README.md) | Estimate a shop's next few days of sales |
+| 2026-11-12 | [SensorScout](projects/sensor_scout_20261112/README.md) | Flag unusual readings from equipment sensors |
+| 2026-11-12 | [BasketBridge](projects/basket_bridge_20261112/README.md) | Suggest related products from anonymous shopping baskets |
